@@ -1,0 +1,12 @@
+name: h501-week-10
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - ipykernel
+    - pandas
+    - numpy
+    - seaborn
+    - streamlit
+    - scikit-learn
+    - plotly
